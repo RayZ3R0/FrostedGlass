@@ -53,7 +53,7 @@
   --tint-brightness: 0; /* Brightness of --tint-colour | 0 - 1 (decimals allowed) | DEFAULT: 0 */
 
   /* Other variables */
-  --window-padding: 4px; /* Spacing around the Discord window | DEFAULT: 20px */
+  --window-padding: 2px; /* Spacing around the Discord window | DEFAULT: 20px */
   --window-roundness: 10px; /* Roundness of Discord | DEFAULT: 10px */
   --scrollbar-colour: rgba(255,255,255,0.05); /* DEFAULT: rgba(255,255,255,0.05) */
   --link-colour: #00b0f4; /* DEFAULT: #00b0f4 */
@@ -62,7 +62,7 @@
     Visit https://fonts.google.com and select one to your liking.
     Now just follow this tutorial: https://imgur.com/a/CNbw7xC
   */
-  --font: 'Whitney';
+  --font: 'Uni Sans';
 
   /* Do not touch */
   --update-notice-1: none;
